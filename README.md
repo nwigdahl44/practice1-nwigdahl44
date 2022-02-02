@@ -1,5 +1,6 @@
 # practice1-nwigdahl44
 Name: Nathaniel Wigdahl
+
 When I'm at a party and I tell someone that I do math they typically are like, "gross, why." This inevitably leads me to attempt to explain, often ineffectively, why math is actually really cool and they just got taught it wrong.
 
 This past month was mostly break. I drive the bus for Cyride, so I did some of that. I also played a lot of Total War Warhammer 2.
